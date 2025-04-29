@@ -1,3 +1,5 @@
+print("Name: Kushal Dubey")
+print("Roll No: 24BEE110")
 list = [(), (1, 2), (), (3,), (4, 5, 6), ()]
 filteredlist = []
 for t in list:

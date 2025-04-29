@@ -1,3 +1,5 @@
+print("Name: Kushal Dubey")
+print("Roll No: 24BEE110")
 dict =[{'Deptno': 900 , 'Emprollno': 109 , 'Salary': 500001},
        {'Deptno': 901 , 'Emprollno': 100, 'Salary': 510000},
        {'Deptno': 902 , 'Emprollno': 119 , 'Salary': 500000},

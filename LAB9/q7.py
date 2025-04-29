@@ -1,3 +1,5 @@
+print("Name: Kushal Dubey")
+print("Roll No: 24BEE110")
 str=""
 def ispalindrome(str):
     str =input("Enter a string")

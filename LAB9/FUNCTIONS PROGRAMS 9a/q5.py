@@ -1,3 +1,5 @@
+print("Name: Kushal Dubey")
+print("Roll No: 24BEE110")
 words = []  
 n = int(input("Enter the range of the list: "))
 

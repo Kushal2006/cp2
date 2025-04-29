@@ -1,3 +1,5 @@
+print("Name: Kushal Dubey")
+print("Roll No: 24BEE110")
 list =[("noodles" ,300) , ("dabeli" , 30) ,("vadapav" ,40) ,("veg combo" ,350)]
 sortedlist=[]
 

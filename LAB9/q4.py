@@ -1,3 +1,5 @@
+print("Name: Kushal Dubey")
+print("Roll No: 24BEE110")
 avg=0
 sum=0
 def sum_avg(avg,sum):

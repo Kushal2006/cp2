@@ -1,3 +1,5 @@
+print("Name: Kushal Dubey")
+print("Roll No: 24BEE110")
 list = [("24BEE105","Hello",18),("24BCH115","Hi",20),("24BCP123","Bye",19)]
 rollnum =[]
 age=[]

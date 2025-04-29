@@ -1,3 +1,5 @@
+print("Name: Kushal Dubey")
+print("Roll No: 24BEE110")
 def create_array(x, y, z, value):
    
     return [[[value for _ in range(z)] for _ in range(y)] for _ in range(x)]

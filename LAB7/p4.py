@@ -1,3 +1,5 @@
+print("Name: Kushal Dubey")
+print("Roll No: 24BEE110")
 string =[]
 f = int(input("Enter the range of the string"))
 

@@ -1,3 +1,5 @@
+print("Name: Kushal Dubey")
+print("Roll No: 24BEE110")
 import random
 randomset = {random.randrange (15,45) for _ in range (10)}
 print(set)

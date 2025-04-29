@@ -1,3 +1,5 @@
+print("Name: Kushal Dubey")
+print("Roll No: 24BEE110")
 namesset = {"America", "Africa", "Boston", "Atlanta", "Bahamas", "Australia", "Bahrain"}
 anames = {name for name in namesset if name.startswith("A")}
 bnames = {name for name in namesset if name.startswith("B")}
