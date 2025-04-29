@@ -1,3 +1,6 @@
+print("Name: Kushal Dubey")
+print("Roll No: 24BEE110")
+
 name = input("Enter the name")
 rollnum = input("Enter the rollnum")
 Email =input("Enter the email")
