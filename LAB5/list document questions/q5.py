@@ -1,3 +1,5 @@
+print("Name: Kushal Dubey")
+print("Roll No: 24BEE110")
 list =[]
 def upper(l):
     l =["hello","bye","Python","how","hey"]

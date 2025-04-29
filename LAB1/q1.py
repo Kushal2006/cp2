@@ -1,5 +1,7 @@
 print("Name: Kushal Dubey")
 print("Roll No: 24BEE110")
+print("Name: Kushal Dubey")
+print("Roll No: 24BEE110")
 
 a= int(input("Enter the first number"))
 b =int(input("Enter the second number"))

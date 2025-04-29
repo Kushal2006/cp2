@@ -1,3 +1,5 @@
+print("Name: Kushal Dubey")
+print("Roll No: 24BEE110")
 import random
 list =[]
 def occurences (l):

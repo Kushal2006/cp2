@@ -1,3 +1,5 @@
+print("Name: Kushal Dubey")
+print("Roll No: 24BEE110")
 a= int(input("Enter a number"))
 c=0
 n=0

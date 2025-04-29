@@ -1,3 +1,5 @@
+print("Name: Kushal Dubey")
+print("Roll No: 24BEE110")
 num = int(input("Enter a number"))
 def armstrong(a):
     n=0

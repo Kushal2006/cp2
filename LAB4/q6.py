@@ -1,3 +1,5 @@
+print("Name: Kushal Dubey")
+print("Roll No: 24BEE110")
 def print_day_with_suffixes():
     for hour in range(24):  
         if hour == 0:

@@ -1,3 +1,5 @@
+print("Name: Kushal Dubey")
+print("Roll No: 24BEE110")
 n = int(input("Enter the value of n"))
 r =int(input("Enter the value of r"))
 def nCr(a,b):

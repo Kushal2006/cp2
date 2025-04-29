@@ -1,3 +1,5 @@
+print("Name: Kushal Dubey")
+print("Roll No: 24BEE110")
 a = input("Enter a string")
 def lower(b):
     result = ""

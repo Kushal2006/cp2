@@ -1,3 +1,5 @@
+print("Name: Kushal Dubey")
+print("Roll No: 24BEE110")
 a=int(input("Enter the first angle of a triangle"))
 b=int(input("Enter the second angle of a triangle"))
 c=int(input("Enter the third angle of a triangle"))

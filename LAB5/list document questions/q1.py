@@ -1,3 +1,5 @@
+print("Name: Kushal Dubey")
+print("Roll No: 24BEE110")
 import random
 even=[random.randrange(2,100,2) for _ in range(4)]
 

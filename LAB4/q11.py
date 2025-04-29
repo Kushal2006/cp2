@@ -1,3 +1,5 @@
+print("Name: Kushal Dubey")
+print("Roll No: 24BEE110")
 import math
 angle = int(input("Enter the value of angle in degrees"))
 rad = angle*(3.14//180)
